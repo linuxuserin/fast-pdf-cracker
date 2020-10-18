@@ -1,5 +1,14 @@
 # fast-pdf-cracker
 
+# Setup & Use
+
+```sh
+git clone https://github.com/linuxuserin/fast-pdf-cracker.git
+pip3 install -r requirements.txt
+python3 fast-brute-pdf-cracker.py [pdf file] [wordlist]
+```
+
+
 
 # Disclaimer
 
